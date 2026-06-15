@@ -1,24 +1,30 @@
 # Clasificacion-espectrogramas-sonidos-urbanos
 Este repositorio contiene el código desarrollado para el trabajo de grado de Maestría en Ciencia de Datos:
 
+# Descripción
 Clasificación de espectrogramas de audio con técnicas de aprendizaje profundo para el reconocimiento de sonidos urbanos.
 
 El proyecto evalúa diferentes arquitecturas de aprendizaje profundo para la clasificación automática de sonidos urbanos a partir de espectrogramas de Mel.
-Contenido
-Preprocesamiento de audio.
-Segmentación de grabaciones.
-Generación de espectrogramas de Mel.
-Entrenamiento de modelos de aprendizaje profundo.
-Evaluación de resultados. .
-Arquitecturas evaluadas
-MobileNetV2
-EfficientNetB0
-EfficientNetV2S
-CNN-Transformer
-Reproducibilidad
+
+# Contenido
+- Preprocesamiento de audio.
+- Segmentación de grabaciones.
+- Generación de espectrogramas de Mel.
+- Entrenamiento de modelos de aprendizaje profundo.
+- Evaluación de resultados. .
+
+# Arquitecturas evaluadas
+- MobileNetV2
+- EfficientNetB0
+- EfficientNetV2S
+- CNN-Transformer
+
 Este repositorio contiene los scripts utilizados durante el desarrollo de la investigación.
 
-Autores
-Maria Paula Jaramillo Giraldo Andres Arroyo Marin Juan Camilo Dominguez benitez Pontificia Universidad Javeriana Cali
+# Autores
+Maria Paula Jaramillo Giraldo 
+Andres Arroyo Marin 
+Juan Camilo Dominguez benitez 
+Pontificia Universidad Javeriana Cali
 
 Maestría en Ciencia de Datos
